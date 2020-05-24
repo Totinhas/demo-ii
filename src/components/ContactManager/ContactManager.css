@@ -1,0 +1,11 @@
+.contact-manager-add {
+  position: absolute;
+  top: 0;
+  right: 0;
+  font-size: 20px;
+  cursor: pointer;
+  color: deeppink;
+  font-weight: bolder;
+  padding: 20px;
+  border-radius: 5px;
+}

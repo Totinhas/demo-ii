@@ -1,0 +1,12 @@
+.contact-list-base {
+  background-color: aliceblue;
+  color: crimson;
+  border-radius: 5px;
+  width: 50%;
+}
+
+.contact-list-base th,
+td {
+  text-align: left;
+  padding: 10px;
+}
